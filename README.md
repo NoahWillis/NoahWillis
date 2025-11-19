@@ -5,9 +5,13 @@ I'm a recent high school graduate with a strong passion for technology, learning
 🌱 About Me
 
 🌟 Fresh graduate excited to grow as a developer
+
 🔧 Built a full REST API with Spring Boot used by a React.js frontend
+
 🤝 I love collaboration — two minds are always better than one
+
 📚 Always learning something new on my own
+
 🚀 What I’m Working On
 * Building real-world applications
 * Exploring backend + frontend development
