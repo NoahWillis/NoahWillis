@@ -2,7 +2,7 @@ Hi, I'm Noah!
 
 I'm a recent high school graduate with a strong passion for technology, learning, and building cool things. I enjoy working with others, solving problems, and constantly improving my skills.
 
-🌱 About Me
+# 🌱 About Me:
 
 🌟 Fresh graduate excited to grow as a developer
 
